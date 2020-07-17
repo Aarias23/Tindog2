@@ -89,6 +89,10 @@ p {
     .text-secondary {
         text-align: center;
     }
+    
+    .text-secondary.modified{
+        text-align: justify;
+    }
 
     .text-dark {
         text-transform: uppercase;
