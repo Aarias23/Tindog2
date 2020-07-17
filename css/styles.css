@@ -33,6 +33,10 @@ p {
     text-align: justify;
 }
 
+.justify {
+    text-align: center;
+}
+
 #about-us .carousel-indicators {
     position: static;
     padding-top: 30px;
@@ -88,10 +92,7 @@ p {
 
     .text-secondary {
         text-align: center;
-    }
-    
-    p.modified{
-        text-align: justify;
+
     }
 
     .text-dark {
