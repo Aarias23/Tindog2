@@ -90,7 +90,7 @@ p {
         text-align: center;
     }
     
-    .text-secondary.modified{
+    p.modified{
         text-align: justify;
     }
 
