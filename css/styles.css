@@ -33,7 +33,7 @@ p {
     text-align: justify;
 }
 
-.justify {
+.modify {
     text-align: center;
 }
 
@@ -93,8 +93,8 @@ p {
     .text-secondary {
         text-align: center;
     }
-    
-    .justify{
+
+    .modify {
         text-align: justify;
     }
 
