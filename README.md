@@ -1,1 +1,1 @@
-# Tindog2
+# Course_information
